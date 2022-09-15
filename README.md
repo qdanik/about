@@ -9,7 +9,7 @@
 ## :sassy_man:  About me
 - :school: I am a `Senior Software Engineer` at EPAM Systems
 - :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `React-Native` and `Architecture`.
+- :student: I’m currently learning: `React-Native` and `Software Architecture`.
 - :nerd_face: Always `learning new things` and `find new challenges`
 - :speaking_head: Russian (native), English (B1)
 
